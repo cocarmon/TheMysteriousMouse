@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a new grad with a major in computer science. <br>I'm interested in full-stack development working with the PERN tech stack. Currently <br>working on a web based live streaming service.<br>Interested in finding a mentor to help refine and improve my coding abilities.
 
+I'm a recent graduate in computer science with an interest for full-stack development and working with the PERN tech stack. Currently developing a web based live streaming application, to put into practice some concepts that I have been learning about. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cody-carmony-a57aa41a7/) 
